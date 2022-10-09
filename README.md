@@ -5,4 +5,4 @@ Was working on a Hypixel Skyblock bot  [SkyblockBot](https://github.com/Cloudsey
 
 Languages: JS, DiscordJS, HTML, & some CSS
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dwsysfx&show_icons=true&layout=compact&theme=dark" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dwsysfx&show_icons=true&layout=compact&theme=dark" /></p>
