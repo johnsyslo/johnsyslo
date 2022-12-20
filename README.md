@@ -1,12 +1,24 @@
-# Hi 👋, i'm dwsysfx
-a kid just trying code and create cool things<br>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Dwsysfx&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dwsysfx&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwsysfx&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 
-not working on much, just trying to learn languages<br>
-latest thing i worked on [my website](https://dwsysfx.ml/)
+# 👋 Hey, i'm dwsysfx
+a guy trying to learn to code
+## About Me
+- minor
+- self-taught, quarter stack dev
+- https://dwsysfx.ml (bad website)
+- dwsysfx#9543
 
-## Skills:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+## Languages
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## Learning / Slowly working in + not really using..
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/>
-
+## Tools
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
