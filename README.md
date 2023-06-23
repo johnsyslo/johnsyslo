@@ -1,13 +1,13 @@
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dwsysfx&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwsysfx&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 
-# 👋 Hey, i'm dwsysfx
+# 👋 hey, i'm dwsysfx
 a guy trying to learn to code
 ## About Me
 - minor
 - self-taught, quarter stack dev
 - https://dwsysfx.ml (bad website)
-- dwsysfx#9543
+- discord: irrland
 
 ## Languages
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
