@@ -7,7 +7,7 @@ a guy trying to learn to code
 - minor
 - self-taught, quarter stack dev
 - https://dwsysfx.github.io (cloudflare broke custom domain, i too lazy to fix B) )
-- discord: irrland
+- discord: oireland
 
 ## Languages
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
