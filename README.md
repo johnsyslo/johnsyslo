@@ -6,7 +6,7 @@ a guy trying to learn to code
 ## About Me
 - minor
 - self-taught, quarter stack dev
-- https://dwsysfx.ml (bad website)
+- https://dwsysfx.github.io (cloudflare broke custom domain, i too lazy to fix B) )
 - discord: irrland
 
 ## Languages
