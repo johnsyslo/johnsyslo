@@ -6,7 +6,7 @@ a guy trying to learn to code
 ## About Me
 - minor
 - self-taught, quarter stack dev
-- https://dwsysfx.github.io (cloudflare broke custom domain, i too lazy to fix B) )
+- https://dwsysfx.github.io (cloudflare broke custom domain)
 
 ## Languages
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
