@@ -1,5 +1,5 @@
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dwsysfx&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwsysfx&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=johnsyslo&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnsyslo&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 
 # 👋 hey, i'm jp (or john)
 a guy trying to learn to code
