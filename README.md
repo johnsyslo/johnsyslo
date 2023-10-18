@@ -3,8 +3,8 @@
 
 # 👋 hey, i'm jp (or john)
 a guy trying to learn to code
+
 ## About Me
-- minor
 - self-taught, quarter stack dev
 - https://johnsyslo.github.io
 
