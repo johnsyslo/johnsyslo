@@ -4,6 +4,7 @@
 <p>a self-taught, quarter stack dev</p>
 https://johnsyslo.com
 
+<!--
 <h2>Languages</h2>
 <div class="flex flex-row">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,3 +28,4 @@ https://johnsyslo.com
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
+-->
